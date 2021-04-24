@@ -31,3 +31,5 @@ To install the required libraries into Matlab there is one main method.
 ## Authors
 
 * **Matthew Fisher** 4th Year Mechatronics and Robotics, University of Leeds - *el16m2f*
+&nbsp;
+* **Ugochinyere Nzewi** 4th Year Mechatronics and Robotics, University of Leeds - *el17uen* *(Acknowledged for their assistance with the process of featurising the data within the machine learning pipeline.)*
